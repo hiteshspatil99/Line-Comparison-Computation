@@ -1,0 +1,5 @@
+C:\Users\Hitesh\source\repos\ToCompareLengthOfLine\ToCompareLengthOfLine\obj\Debug\netcoreapp3.1\ToCompareLengthOfLine.csproj.AssemblyReference.cache
+C:\Users\Hitesh\source\repos\ToCompareLengthOfLine\ToCompareLengthOfLine\obj\Debug\netcoreapp3.1\ToCompareLengthOfLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hitesh\source\repos\ToCompareLengthOfLine\ToCompareLengthOfLine\obj\Debug\netcoreapp3.1\ToCompareLengthOfLine.AssemblyInfoInputs.cache
+C:\Users\Hitesh\source\repos\ToCompareLengthOfLine\ToCompareLengthOfLine\obj\Debug\netcoreapp3.1\ToCompareLengthOfLine.AssemblyInfo.cs
+C:\Users\Hitesh\source\repos\ToCompareLengthOfLine\ToCompareLengthOfLine\obj\Debug\netcoreapp3.1\ToCompareLengthOfLine.csproj.CoreCompileInputs.cache
